@@ -23,12 +23,19 @@ Setup and Installation
 
 Detailed setup and installation instructions for each component can be found in the
 project_overview.md file. This includes steps for:
+
 • Suricata Setup
+
 • Wazuh-AI Processing Pipeline (conceptual)
+
 • Database Creation (PostgreSQL)
+
 • Rundeck Installation
+
 • Next.js Frontend Setup
+
 • React Frontend Setup
+
 • FastAPI Backend Setup
 
 
